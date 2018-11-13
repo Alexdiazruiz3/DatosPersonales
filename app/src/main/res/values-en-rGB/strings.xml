@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtVNombre">Name:</string>
+    <string name="txtVApellidos">Surnames:</string>
+    <string name="txtVEdad">Age:</string>
+    <string name="txtVGenero">Gender</string>
+    <string name="radioButtonHombre">Men:</string>
+    <string name="radioButtonMujer">Woman</string>
+    <string name="txtVEstadoCivil">Civil Status</string>
+    <string name="txtVHijos">¿Children?</string>
+    <string name="txtNombre">Write your name here</string>
+    <string name="txtApellidos">Write your surnames here</string>
+    <string name="btnLimpiar">Clear</string>
+    <string name="btnTexto">Summary</string>
+</resources>

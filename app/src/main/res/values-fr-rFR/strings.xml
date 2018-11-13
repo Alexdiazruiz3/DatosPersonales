@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtVNombre">Nom:</string>
+    <string name="txtVApellidos">Prenom:</string>
+    <string name="txtVEdad">Age:</string>
+    <string name="txtVGenero">Genre:</string>
+    <string name="radioButtonHombre">Homme:</string>
+    <string name="radioButtonMujer">Femme:</string>
+    <string name="txtVEstadoCivil">État Civil</string>
+    <string name="txtVHijos">Enfants</string>
+    <string name="txtNombre">" Écris ton nom ici:"</string>
+    <string name="txtApellidos">Écris ton nom de famille ici:</string>
+    <string name="btnLimpiar">Nettoyer</string>
+    <string name="btnTexto">Résumé</string>
+</resources>

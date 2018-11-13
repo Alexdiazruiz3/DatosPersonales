@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Datos Personales</string>
+    <string name="txtVNombre">Nombre:</string>
+    <string name="txtNombre">Escriba aquí su nombre</string>
+    <string name="txtVApellidos">Apellidos:</string>
+    <string name="txtApellidos">Escriba aquí sus apellidos</string>
+    <string name="txtVEdad">Edad:</string>
+    <string name="txtVGenero">Género:</string>
+    <string name="radioButtonHombre">Hombre</string>
+    <string name="radioButtonMujer">Mujer</string>
+    <string name="txtVEstadoCivil">Estado Civil:</string>
+    <string name="txtVHijos">¿Tiene Hijos?</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="btnTexto">Resumen</string>
+
+</resources>
